@@ -1,12 +1,12 @@
 {
-  "ENABLED" = "Enabled";
-  "SHOW_BUTTONS" = 'Show "Collapse" / "Clear All" buttons';
+  "ENABLED" = "Attivato";
+  "SHOW_BUTTONS" = 'Mostra "Unisci" / "Pulisci Tutto" buttons';
   "RESPRING" = "Respring";
-  "ARE_YOU_SURE_TO_RESET_PREFS" = "Are you sure you want to reset all your preferences? This cannot be undone.";
+  "ARE_YOU_SURE_TO_RESET_PREFS" = "Sei sicuro di voler resettare le tue preferenze? Non si può annullare.";
   "OK" = "OK";
-  "CANCEL" = "Cancel";
-  "RESET_PREFS" = "Restore default settings and respring";
-  "SOURCE_CODE" = "Source code";
-  "DONATE_TO_OMINOUSNESS" = "Donate to Ominousness";
-  "SUPPORT_ME" = "Support me!";
+  "CANCEL" = "Elimina";
+  "RESET_PREFS" = "Ripristina impostazioni predefinite ed effettua un respring";
+  "SOURCE_CODE" = "Codice Sorgente";
+  "DONATE_TO_OMINOUSNESS" = "Dona a Ominousness";
+  "SUPPORT_ME" = "Supportami!";
 }
